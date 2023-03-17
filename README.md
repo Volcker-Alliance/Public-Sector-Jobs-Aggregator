@@ -1,4 +1,4 @@
-# PublicJobsAggregator
+# PublicSectorJobsAggregator
 
 ## Architecture
 
